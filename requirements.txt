@@ -1,2 +1,5 @@
 autogen
+autogen_agentchat
+autogen_ext
+openai
 requests
